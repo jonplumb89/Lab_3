@@ -1,0 +1,13 @@
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\bin\Debug\netcoreapp3.1\classLab3.exe
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\bin\Debug\netcoreapp3.1\classLab3.deps.json
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\bin\Debug\netcoreapp3.1\classLab3.runtimeconfig.json
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\bin\Debug\netcoreapp3.1\classLab3.runtimeconfig.dev.json
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\bin\Debug\netcoreapp3.1\classLab3.dll
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\bin\Debug\netcoreapp3.1\classLab3.pdb
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\obj\Debug\netcoreapp3.1\classLab3.csprojAssemblyReference.cache
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\obj\Debug\netcoreapp3.1\classLab3.AssemblyInfoInputs.cache
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\obj\Debug\netcoreapp3.1\classLab3.AssemblyInfo.cs
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\obj\Debug\netcoreapp3.1\classLab3.csproj.CoreCompileInputs.cache
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\obj\Debug\netcoreapp3.1\classLab3.dll
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\obj\Debug\netcoreapp3.1\classLab3.pdb
+C:\Users\jonpl\Desktop\schoolPractice\prac\classLab3\classLab3\obj\Debug\netcoreapp3.1\classLab3.genruntimeconfig.cache
